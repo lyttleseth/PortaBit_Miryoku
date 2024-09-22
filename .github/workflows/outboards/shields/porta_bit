@@ -1,0 +1,4 @@
+Outboard_repository=lyttleseth/ZMK-Shield-Module
+outboard_ref=main
+outboard_from=boards/shields/porta_bit
+outboard_to=boards/shields/porta_bit
